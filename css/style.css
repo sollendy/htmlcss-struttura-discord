@@ -67,7 +67,7 @@ li{
     background-color: cadetblue;
 }
 
-#prima-sez{
+.sezioni{
     background-color: cadetblue;
     height: 500px;
     width: 100%;
@@ -76,16 +76,31 @@ li{
     align-items: center;
 }
 
-#prima-img{
-    height: 50%;
+.immagini{
+    height: 70%;
     width: 40%;
     background-color: coral;
 
 }
 
-#testo-1{
+.titoli{
     width: 30%;
     height: 70%;
     background-color: aquamarine;
 }
 
+.quarta-sez{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.testo-4{
+    width: 60%;
+    /* border: solid 1px; */
+}
+
+.quarta-img{
+    height: 90%;
+    width: 80%;
+}

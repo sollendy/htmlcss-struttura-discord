@@ -3,3 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+debug *{
+    border: dotted 1px black;
+}

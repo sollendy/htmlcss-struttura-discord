@@ -104,3 +104,22 @@ li{
     height: 90%;
     width: 80%;
 }
+
+.main-close{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+}
+
+#testo-finale{
+    height: 10%;
+    width: 40%;
+    background-color: deeppink;
+}
+
+#download{
+    height: 10%;
+    width: 20%;
+    background-color: blueviolet;
+}

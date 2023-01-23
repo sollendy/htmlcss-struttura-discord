@@ -23,8 +23,9 @@ nav{
 }
 
 #head-list{
-    height: 30px;
-    width: 100px;
+    display: flex;
+    height: 10%;
+    width: 15%;
 }
 
 #accesso{

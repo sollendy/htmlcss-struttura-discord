@@ -62,9 +62,26 @@ li{
 }
 
 #scarica-browser{
-    height: 10%;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    height: 20%;
     width: 50%;
     background-color: cadetblue;
+}
+
+#scarica{
+    background-color: antiquewhite;
+    height: 60%;
+    width: 30%;
+    border-radius: 20px;
+}
+
+#browser{
+    background-color: black;
+    height: 60%;
+    width: 40%;
+    border-radius: 20px;
 }
 
 .sezioni{
@@ -122,4 +139,14 @@ li{
     height: 10%;
     width: 20%;
     background-color: blueviolet;
+}
+footer{
+    background-color: forestgreen;
+    width: 100%;
+    height: 700px;
+}
+aside{
+    height: 30%;
+    width: 20%;
+    background-color: aquamarine;
 }
